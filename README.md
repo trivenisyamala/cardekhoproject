@@ -1,8 +1,12 @@
 Technologies and Tools:
 Python: Core programming language used for data processing, model training, and deployment.
+
 Pandas & NumPy: Libraries used for data manipulation and numerical operations.
+
 Scikit-Learn: Machine learning library used for model selection, training, and evaluation.
+
 Streamlit: Framework used for deploying the model as an interactive web application.
+
 Joblib: Used for saving and loading the trained model and feature names.
 
 CarDekho Project: Used Car Price Prediction
