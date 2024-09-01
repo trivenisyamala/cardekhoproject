@@ -5,6 +5,9 @@ cardekho_venv/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+EDACARDEKHO.ipynb
+EDA.ipynb
+cardekhostreamlit.py
 
 # Ignore data files
 *.pkl
